@@ -1,0 +1,27 @@
+,0
+1,Western Sahara
+2,United States
+3,Brunei
+6,French Polynesia
+9,Guam
+13,Philippines
+15,Sao Tome and Principe
+16,Ireland
+17,Korean
+20,Guadeloupe
+22,Curacao
+23,Martinique
+25,New Caledonia
+27,Kiribati
+28,"China, Macao SAR"
+29,eSwatini
+32,Mauritius
+33,Australia
+35,Canada
+36,Puerto Rico
+38,United Kingdom
+39,French Guiana
+40,Reunion
+47,Mayotte
+48,"China, Hong Kong SAR"
+49,New Zealand
