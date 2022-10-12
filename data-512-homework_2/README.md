@@ -5,6 +5,10 @@ using the ORES API. The following three aggregation analyses are done and the re
     - Top and bottom countries with high quality article per capita
     - Top and bottom region with article coverage and high quality article per capita
 
+### Data source
+politician list:
+population list:
+
 ### License
 MIT Open Source:https://opensource.org/licenses/MIT
 Wikimedia Foundation REST API terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
