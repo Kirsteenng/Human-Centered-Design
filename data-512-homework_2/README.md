@@ -6,19 +6,19 @@ using the ORES API. The following three aggregation analyses are done and the re
     - Top and bottom region with article coverage and high quality article per capita       
 
 ### Data source
-(The Wikipedia Category:Politicians)[https://en.wikipedia.org/wiki/Category:Politicians_by_nationality] by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries.   
-(Politicians Data location)[https://docs.google.com/spreadsheets/d/1Y4vSTYENgNE5KltqKZqnRQQBQZN5c8uKbSM4QTt8QGg/edit#gid=1672307727]
+[The Wikipedia Category:Politicians](https://en.wikipedia.org/wiki/Category:Politicians_by_nationality) by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries.   
+[Politicians Data location](https://docs.google.com/spreadsheets/d/1Y4vSTYENgNE5KltqKZqnRQQBQZN5c8uKbSM4QTt8QGg/edit#gid=1672307727)
 
-The population dataset is drawn from the world population data sheet published by the (Population Reference Bureau)[https://www.prb.org/international/indicator/population/table].   
-(Population Data location)[https://docs.google.com/spreadsheets/d/1POuZDfA1sRooBq9e1RNukxyzHZZ-nQ2r6H5NcXhsMPU/edit#gid=1154770218]
+The population dataset is drawn from the world population data sheet published by the [Population Reference Bureau](https://www.prb.org/international/indicator/population/table).   
+[Population Data location](https://docs.google.com/spreadsheets/d/1POuZDfA1sRooBq9e1RNukxyzHZZ-nQ2r6H5NcXhsMPU/edit#gid=1154770218)
 
 ### License
-(MIT Open Source)[https://opensource.org/licenses/MIT]     
-(Wikimedia Foundation REST API terms of use)[https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions]        
-(Creative Commons)[https://creativecommons.org/share-your-work/public-domain/cc0/]         
+MIT Open Source: https://opensource.org/licenses/MIT      
+Wikimedia Foundation REST API terms of use:https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions        
+Creative Commons: https://creativecommons.org/share-your-work/public-domain/cc0/         
 
 ### Link to API documentation
-(Wikimedia REST API documentation and reference)[https://www.mediawiki.org/wiki/API:REST_API/Reference]          
+Wikimedia REST API documentation and reference: https://www.mediawiki.org/wiki/API:REST_API/Reference          
 
 ### Files and data
 - HW2.ipynb contains the script to collect, parse and analyse data.
