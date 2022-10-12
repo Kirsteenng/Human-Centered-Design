@@ -1,4 +1,5 @@
 ,0
+<<<<<<< Updated upstream
 1,Western Sahara
 2,United States
 3,Brunei
@@ -25,3 +26,31 @@
 47,Mayotte
 48,"China, Hong Kong SAR"
 49,New Zealand
+=======
+0,"China,  Hong Kong SAR"
+3,New Zealand
+7,United Kingdom
+10,Mauritius
+11,Ireland
+14,Australia
+16,eSwatini
+17,New Caledonia
+18,Curacao
+19,Puerto Rico
+20,Sao Tome and Principe
+21,Guam
+23,Brunei
+24,Canada
+25,Philippines
+27,French Polynesia
+31,French Guiana
+32,Kiribati
+33,Reunion
+36,Korean
+37,Mayotte
+38,Guadeloupe
+39,Martinique
+41,"China,  Macao SAR"
+46,United States
+47,Western Sahara
+>>>>>>> Stashed changes
