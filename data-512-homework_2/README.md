@@ -7,10 +7,13 @@ using the ORES API. The following three aggregation analyses are done and the re
 
 ### Data source
 [The Wikipedia Category:Politicians](https://en.wikipedia.org/wiki/Category:Politicians_by_nationality) by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries.   
-[Politicians Data location](https://docs.google.com/spreadsheets/d/1Y4vSTYENgNE5KltqKZqnRQQBQZN5c8uKbSM4QTt8QGg/edit#gid=1672307727)
+[Politicians Data location](https://docs.google.com/spreadsheets/d/1Y4vSTYENgNE5KltqKZqnRQQBQZN5c8uKbSM4QTt8QGg/edit#gid=1672307727). 
+The .csv file is also available in the [repo](https://github.com/Kirsteenng/Human-Centered-Design/blob/main/data-512-homework_2/politicians_by_country_SEPT_2022.csv).
 
 The population dataset is drawn from the world population data sheet published by the [Population Reference Bureau](https://www.prb.org/international/indicator/population/table).   
 [Population Data location](https://docs.google.com/spreadsheets/d/1POuZDfA1sRooBq9e1RNukxyzHZZ-nQ2r6H5NcXhsMPU/edit#gid=1154770218)
+The .csv file is also available in the [repo](https://github.com/Kirsteenng/Human-Centered-Design/blob/main/data-512-homework_2/population_by_country_2022.csv).
+
 
 ### License
 MIT Open Source: https://opensource.org/licenses/MIT      
@@ -22,8 +25,8 @@ Wikimedia REST API documentation and reference: https://www.mediawiki.org/wiki/A
 
 ### Files and data
 - HW2.ipynb contains the script to collect, parse and analyse data.
-- wp_countries-no_match.txt is one of the 
-- wp_politicians_by_country.csv
+- wp_countries-no_match.txt contains the countries that are not present in the politician list.
+- wp_politicians_by_country.csv contains the data of the wikipedia articles and their respective quality retrieved using ORES API.
 - columns in the wp_politicians_by_country.csv files: 
     - country(str): the name of the country
     - region(str): the geographic region that the country belongs to
